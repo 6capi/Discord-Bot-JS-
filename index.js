@@ -13,30 +13,28 @@ function presence(){
    });
 }
 
-console.log("Brea bot discord / Loading..")
+console.log("Capi bot discord / Loading..")
 
 client.on('ready', () => {
-    console.log("BOT STARTED / brea discord server Started. ")
+    console.log("BOT STARTED / Discord server Started. ")
     presence()
 }); 
 
 console.log("------------")
-console.log("BOT STARTED / brea discord server Loading..")
+console.log("BOT STARTED /  Loading..")
 console.log("------------")
-console.log("BOT STARTED / brea discord server Loading..")
+console.log("BOT STARTED /  Loading..")
 console.log("------------")
-console.log("BOT STARTED / brea discord server Loading..")
+console.log("BOT STARTED /  Loading..")
 console.log("------------")
-console.log("BOT STARTED / brea discord server Loading..")
+console.log("BOT STARTED /  Loading..")
 console.log("------------")
-console.log("BOT STARTED / brea discord server Loading..")
+console.log("BOT STARTED / Loading..")
 console.log("------------")
-console.log("BOT STARTED / brea discord server Loading..")
+console.log("BOT STARTED / Loading..")
 console.log("------------")
-console.log("BOT STARTED / brea discord server Loading..")
+console.log("BOT STARTED /  Loading..")
 console.log("------------")
-
-console.log("Dm 227Glocks#7926 on Discord to get more source codes :) ")
 
  
  client.on("message", msg => {
