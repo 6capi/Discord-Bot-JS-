@@ -1,5 +1,7 @@
+// this is a old version - trash code dont use it :)
+
 // ALL THIS SHIT HAS BEEN DEVELOPED BY CAPI .
-// I dont need help of nobody ! 227Glocks#7926 for support :)
+
 
 // Const
 const Discord = require("discord.js");
