@@ -1,3 +1,4 @@
+# OLD VERSION DONT USE IT
 # Discord-Bot-JS-
 This bot include : 
 
